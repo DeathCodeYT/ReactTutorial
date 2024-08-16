@@ -1,17 +1,12 @@
 # React Projects by DeathCode
 
-Welcome to the repository containing all the React projects from my [Youtube Channel, DeathCode](https://youtube.com/@DeathCodeYT). This repository is a learning resource for React developers, featuring a variety of projects designed to teach different aspects of React development, from basics to advanced topics. Follow along with my tutorials, explore the source code, and enhance your React skills.
-
-## Projects
-
-- **Expense Tracker:** This project is an expense tracker that helps you keep track of your spending and budgeting.
-- **Tic-Tac-Toe:** This project is a classic tic-tac-toe game implemented in React.
+Welcome to the repository containing all the React Tutorials from my [Youtube Channel, DeathCode](https://youtube.com/@DeathCodeYT). This repository is a learning resource for React developers, featuring a variety of Topics to teach different aspects of React development, from basics to advanced topics. Follow along with my tutorials, explore the source code, and enhance your React skills.
 
 - **Getting Started:**
   1. Navigate to the project directory (like this):
 
      ```bash
-     cd tic-tac-toe
+     cd 30-task-manager
      ```
 
   2. Install dependencies:
@@ -33,5 +28,5 @@ Welcome to the repository containing all the React projects from my [Youtube Cha
 Clone this repository to explore and run the projects:
 
 ```bash
-git clone https://github.com/DeathCodeYT/react-projects.git
+git clone https://github.com/DeathCodeYT/ReactTutorial.git
 ```
