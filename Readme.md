@@ -1,4 +1,4 @@
-# React Projects by DeathCode
+# React Tutorials Beginners -> Advance by DeathCode
 
 Welcome to the repository containing all the React Tutorials from my [Youtube Channel, DeathCode](https://youtube.com/@DeathCodeYT). This repository is a learning resource for React developers, featuring a variety of Topics to teach different aspects of React development, from basics to advanced topics. Follow along with my tutorials, explore the source code, and enhance your React skills.
 
